@@ -9,11 +9,6 @@ export default [
     text: "Enjoy unlimited access to over 1 million titles.",
   },
   {
-    icon: <FaBookOpen />,
-    title: "Current Magazines",
-    text: "Browse this month's popular magazines.",
-  },
-  {
     icon: <IoIosHeadset />,
     title: "More Audiobooks",
     text: "Listen to thousands of books with Audible narration.",
