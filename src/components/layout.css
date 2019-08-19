@@ -14,7 +14,7 @@
   --mainTransition: all 0.3s linear;
   --mainSpacing: 4px;
   --lightShadow: 1px 2px 2px 0px rgba(0, 0, 0, 0.5);
-  --darkShadow: 4px 10px 5px 0px rgba(0, 0, 0, 0.5);
+  --darkShadow: 2px 4px 4px 0px rgba(0, 0, 0, 0.5);
 }
 
 * {

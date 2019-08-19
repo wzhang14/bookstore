@@ -1,8 +1,8 @@
-.tour {
+.book {
   box-shadow: var(--lightShadow);
   transition: var(--mainTransition);
 }
-.tour:hover {
+.book:hover {
   box-shadow: var(--darkShadow);
 }
 
@@ -61,7 +61,7 @@
 .info h4 {
   margin-bottom: 0;
 }
-.country {
+.author {
   text-transform: capitalize;
   color: var(--primaryColor);
   display: flex;
