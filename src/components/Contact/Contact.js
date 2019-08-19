@@ -19,7 +19,6 @@ const Contact = () => {
               name="name"
               id="name"
               className={styles.formControl}
-              placeholder="Sam Smith"
             />
           </div>
           <div>
@@ -29,7 +28,6 @@ const Contact = () => {
               name="email"
               id="email"
               className={styles.formControl}
-              placeholder="email@email.com"
             />
           </div>
           <div>
@@ -39,7 +37,6 @@ const Contact = () => {
               id="message"
               rows="10"
               className={styles.formControl}
-              placeholder="Please leave a message"
             />
           </div>
           <div>

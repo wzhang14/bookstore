@@ -16,7 +16,10 @@ const Navbar = () => {
     <nav className={styles.navbar}>
       <div className={styles.navCenter}>
         <div className={styles.navHeader}>
-          <img src={logo} alt="BookStore" className={styles.logo} />
+          <AniLink fade to="/">
+            <img src={logo} alt="BookStore" className={styles.logo} />
+          </AniLink>
+
           <button type="button" className={styles.logoBtn} onClick={toggleNav}>
             <FaAlignRight className={styles.logoIcon} />
           </button>
